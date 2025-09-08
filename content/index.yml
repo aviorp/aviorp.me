@@ -9,23 +9,23 @@ hero:
       to: https://github.com/aviorp
       color: "neutral"
   images:
-    - src: /hero/random-1.avif
+    - src: https://img.icons8.com/?size=1100&id=dzfo6UeXW9h7&format=png&color=000000
       alt: Random Image 1
-    - src: /hero/random-2.avif
+    - src: https://img.icons8.com/?size=1100&id=hsPbhkOH4FMe&format=png&color=000000
       alt: Random Image 2
-    - src: /hero/random-3.avif
+    - src: https://img.icons8.com/?size=1100&id=kEkT1u7zTDk5&format=png&color=000000
       alt: Random Image 3
-    - src: /hero/random-4.avif
+    - src: https://img.icons8.com/?size=1100&id=44442&format=png&color=000000
       alt: Random Image 4
-    - src: /hero/random-5.avif
+    - src: https://img.icons8.com/?size=1100&id=NfbyHexzVEDk&format=png&color=000000
       alt: Random Image 5
-    - src: /hero/random-6.avif
+    - src: https://img.icons8.com/?size=1100&id=33039&format=png&color=000000
       alt: Random Image 6
-    - src: /hero/random-7.avif
+    - src: https://img.icons8.com/?size=1100&id=Xf1sHBmY73hA&format=png&color=000000
       alt: Random Image 7
-    - src: /hero/random-8.avif
+    - src: https://img.icons8.com/?size=1100&id=cvzmaEA4kC0o&format=png&color=000000
       alt: Random Image 8
-    - src: /hero/random-9.avif
+    - src: https://img.icons8.com/?size=1100&id=zFAYIdFZlGxP&format=png&color=000000
       alt: Random Image 9
 about:
   title: "About Me"
