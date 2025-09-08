@@ -1,12 +1,12 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: "Avior Peretz - Software Engineer"
+  description: "Welcome to my portfolio! I'm Avior Peretz, a passionate  Software Engineer based in Rishon LeTsiyon, Israel. I specialize in building scalable web applications and systems using modern technologies."
+title: "Hey, I'm Avior Peretz Software Engineer"
+description: "I build robust, scalable software solutions with expertise in full-stack development, dev ops and infrastructure. Based in Israel, transforming ideas into efficient, high-performance applications."
 hero:
   links:
-    - label: "Use this template"
-      to: https://github.com/nuxt-ui-templates/portfolio
+    - label: "View my GitHub"
+      to: https://github.com/aviorp
       color: "neutral"
   images:
     - src: /hero/random-1.avif
@@ -30,54 +30,61 @@ hero:
 about:
   title: "About Me"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    As a passionate  Software Engineer with 5+ years of experience, I specialize in building scalable web applications and systems. My expertise spans from frontend technologies like Vue.js and React to backend systems using Node.js and Go.
+    I focus on delivering end-to-end solutions, from robust UI codebases with microfrontend architectures to optimized backend services. My approach combines technical excellence with mentorship and collaboration to drive innovation in software development.
 experience:
   title: Work Experience
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: "Software Engineer at"
+      date: "2024 - Present"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+        name: Navina
+        logo: "i-heroicons-building-office"
+        url: "https://www.navina.ai/"
+        color: "#322a5e"
+    - position: "Software Engineer at"
+      date: "2023 - 2024"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+        name: TRES Finance
+        logo: "i-heroicons-building-office"
+        url: "https://tres.finance"
+        color: "#0066CC"
+    - position: "Software Engineer at"
+      date: "2021 - 2023"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        name: Aqua Security
+        logo: "i-heroicons-shield-check"
+        url: "https://www.aquasec.com"
+        color: "#00A3E0"
+    - position: "Software Engineer at"
+      date: "2019 - 2021"
+      company:
+        name: Hadassah Hospital
+        logo: "i-heroicons-heart"
+        url: "https://he.hadassah.org.il"
+        color: "#E53E3E"
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "Avior's expertise in full-stack development transformed our fintech platform. His implementation of a robust microfrontend architecture and Backend for Frontend optimization significantly improved our API efficiency and user experience. The CI/CD pipeline he created reduced our deployment time by 60% and enabled seamless testing of isolated branches."
     author:
-      name: 'Sarah Chen'
-      description: 'Product Director at Bloom Finance'
+      name: 'Aviv Weissman'
+      description: 'Software Engineer at TRES Finance'
       avatar:
-        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+        src: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/184241517_512750433800678_4577384490828004984_n.jpg?ccb=11-4&oh=01_Q5Aa2gHaqm-lwEnq7arACqM2OjWbEU4gM0mRwnBct7HFY3YLEA&oe=68CC6750&_nc_sid=5e03e0&_nc_cat=102'
+        srcset: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/184241517_512750433800678_4577384490828004984_n.jpg?ccb=11-4&oh=01_Q5Aa2gHaqm-lwEnq7arACqM2OjWbEU4gM0mRwnBct7HFY3YLEA&oe=68CC6750&_nc_sid=5e03e0&_nc_cat=102'
+  - quote: "Working with Avior at Aqua Security was exceptional. He delivered complex security UIs using cutting-edge frontend technologies while building robust backend components and gateways. His mentorship of junior developers and cross-functional collaboration skills made him invaluable to our team's success."
     author:
-      name: 'Michael Rodriguez'
-      description: 'Co-founder of Wavelength Music'
+      name: 'Nadav Frank'
+      description: 'Software Engineer at Aqua Security'
       avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Emma stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
+        src: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/298599931_812020476823991_6709130133522097825_n.jpg?ccb=11-4&oh=01_Q5Aa2gGeVwyVxXQAHi1wwmcU0nEo0d665YkujcXxEUiFgx2-Iw&oe=68CC4C38&_nc_sid=5e03e0&_nc_cat=102'
+        srcset: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/298599931_812020476823991_6709130133522097825_n.jpg?ccb=11-4&oh=01_Q5Aa2gGeVwyVxXQAHi1wwmcU0nEo0d665YkujcXxEUiFgx2-Iw&oe=68CC4C38&_nc_sid=5e03e0&_nc_cat=102'
+  - quote: "Avior's Vue.js expertise revolutionized our hospital's web systems. His ability to collaborate with healthcare professionals and create intuitive interfaces significantly improved our operational efficiency and patient care delivery. The customized solutions he implemented streamlined our workflows and enhanced our healthcare services."
     author:
-      name: 'Dr. Aisha Johnson'
-      description: 'Chief Innovation Officer at GreenTech Solutions'
+      name: 'Aviv Day'
+      description: 'Technical Lead at Hadassah Hospital'
       avatar:
-        src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+        src: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/151825733_2134945923338201_5445347947714921810_n.jpg?ccb=11-4&oh=01_Q5Aa2gHC5naO2OEkaIv9ah90Se4NFopatSv9GbyZIJ8uY6XHMA&oe=68CC4AC4&_nc_sid=5e03e0&_nc_cat=111'
+        srcset: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/151825733_2134945923338201_5445347947714921810_n.jpg?ccb=11-4&oh=01_Q5Aa2gHC5naO2OEkaIv9ah90Se4NFopatSv9GbyZIJ8uY6XHMA&oe=68CC4AC4&_nc_sid=5e03e0&_nc_cat=111'
 blog:
   title: "Latest Articles"
   description: "Some of my recent thoughts"
@@ -89,32 +96,32 @@ faq:
       questions:
         - label: What services do you offer?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
+            I specialize in full-stack software development with expertise in modern web technologies. This includes frontend development (Vue.js, React, TypeScript), backend systems (Node.js, Go), database design (PostgreSQL), cloud infrastructure (AWS), CI/CD pipeline setup, and microfrontend architectures. I deliver end-to-end solutions from concept to production deployment.
+        - label: What is your development process like?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
+            My process is agile and collaborative, involving requirements analysis, system architecture design, iterative development with continuous testing, code reviews, and seamless deployment through automated CI/CD pipelines. I focus on scalable, maintainable solutions with proper documentation and mentorship for team members.
         - label: Do you work with startups?
           content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
+            Absolutely! I have extensive experience with startups and fast-paced environments. I can help establish robust technical foundations, implement scalable architectures, and build development processes that support rapid growth. My experience includes fintech, security, and healthcare sectors.
     - title: Pricing & Timelines
       questions:
         - label: How much does a project typically cost?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
+            Project costs vary based on scope, complexity, technology stack, and timeline. For full-stack development projects, my engagements typically start around $8,000, with average projects ranging between $15,000 and $40,000. For consulting, code reviews, or specific development tasks, my day rate is $800.
         - label: What are your payment terms?
           content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
+            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and international wire transfers.
         - label: How long does a typical project take?
           content: |
-            Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
+            Timelines depend heavily on the project's scope and complexity. Smaller features or bug fixes might take 1-2 weeks, while comprehensive full-stack applications can range from 2 to 6 months. I always provide detailed project milestones and timeline estimates after the initial technical assessment.
         - label: Do you offer retainers or ongoing support?
           content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
+            Yes, for clients needing ongoing development support, system maintenance, performance optimization, or feature development, I offer monthly retainer options tailored to specific technical needs. This is ideal for companies requiring consistent technical expertise.
     - title: About Me
       questions:
         - label: What do you enjoy most about your work?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
+            I love the challenge of architecting scalable software solutions and solving complex technical problems. It's incredibly rewarding to build systems that perform efficiently at scale and mentor other developers to grow their skills. The intersection of cutting-edge technology and real-world business impact is what drives my passion for software engineering.
         - label: What are your hobbies outside of work?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            When I'm not coding, I enjoy exploring new technologies and contributing to open-source projects. I'm also passionate about staying updated with the latest developments in software architecture, cloud technologies, and emerging programming paradigms. I value continuous learning and sharing knowledge with the developer community.
