@@ -66,25 +66,25 @@ experience:
 testimonials:
   - quote: "Avior's expertise in full-stack development transformed our fintech platform. His implementation of a robust microfrontend architecture and Backend for Frontend optimization significantly improved our API efficiency and user experience. The CI/CD pipeline he created reduced our deployment time by 60% and enabled seamless testing of isolated branches."
     author:
-      name: 'Aviv Weissman'
-      description: 'Software Engineer at TRES Finance'
+      name: "Aviv Weissman"
+      description: "Software Engineer at TRES Finance"
       avatar:
-        src: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/184241517_512750433800678_4577384490828004984_n.jpg?ccb=11-4&oh=01_Q5Aa2gHaqm-lwEnq7arACqM2OjWbEU4gM0mRwnBct7HFY3YLEA&oe=68CC6750&_nc_sid=5e03e0&_nc_cat=102'
-        srcset: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/184241517_512750433800678_4577384490828004984_n.jpg?ccb=11-4&oh=01_Q5Aa2gHaqm-lwEnq7arACqM2OjWbEU4gM0mRwnBct7HFY3YLEA&oe=68CC6750&_nc_sid=5e03e0&_nc_cat=102'
+        src: "https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/184241517_512750433800678_4577384490828004984_n.jpg?ccb=11-4&oh=01_Q5Aa2gHaqm-lwEnq7arACqM2OjWbEU4gM0mRwnBct7HFY3YLEA&oe=68CC6750&_nc_sid=5e03e0&_nc_cat=102"
+        srcset: "https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/184241517_512750433800678_4577384490828004984_n.jpg?ccb=11-4&oh=01_Q5Aa2gHaqm-lwEnq7arACqM2OjWbEU4gM0mRwnBct7HFY3YLEA&oe=68CC6750&_nc_sid=5e03e0&_nc_cat=102"
   - quote: "Working with Avior at Aqua Security was exceptional. He delivered complex security UIs using cutting-edge frontend technologies while building robust backend components and gateways. His mentorship of junior developers and cross-functional collaboration skills made him invaluable to our team's success."
     author:
-      name: 'Nadav Frank'
-      description: 'Software Engineer at Aqua Security'
+      name: "Nadav Frank"
+      description: "Software Engineer at Semperis"
       avatar:
-        src: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/298599931_812020476823991_6709130133522097825_n.jpg?ccb=11-4&oh=01_Q5Aa2gGeVwyVxXQAHi1wwmcU0nEo0d665YkujcXxEUiFgx2-Iw&oe=68CC4C38&_nc_sid=5e03e0&_nc_cat=102'
-        srcset: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/298599931_812020476823991_6709130133522097825_n.jpg?ccb=11-4&oh=01_Q5Aa2gGeVwyVxXQAHi1wwmcU0nEo0d665YkujcXxEUiFgx2-Iw&oe=68CC4C38&_nc_sid=5e03e0&_nc_cat=102'
+        src: "https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/298599931_812020476823991_6709130133522097825_n.jpg?ccb=11-4&oh=01_Q5Aa2gGeVwyVxXQAHi1wwmcU0nEo0d665YkujcXxEUiFgx2-Iw&oe=68CC4C38&_nc_sid=5e03e0&_nc_cat=102"
+        srcset: "https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/298599931_812020476823991_6709130133522097825_n.jpg?ccb=11-4&oh=01_Q5Aa2gGeVwyVxXQAHi1wwmcU0nEo0d665YkujcXxEUiFgx2-Iw&oe=68CC4C38&_nc_sid=5e03e0&_nc_cat=102"
   - quote: "Avior's Vue.js expertise revolutionized our hospital's web systems. His ability to collaborate with healthcare professionals and create intuitive interfaces significantly improved our operational efficiency and patient care delivery. The customized solutions he implemented streamlined our workflows and enhanced our healthcare services."
     author:
-      name: 'Aviv Day'
-      description: 'Technical Lead at Hadassah Hospital'
+      name: "Aviv Day"
+      description: "Software Engineer at Meta"
       avatar:
-        src: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/151825733_2134945923338201_5445347947714921810_n.jpg?ccb=11-4&oh=01_Q5Aa2gHC5naO2OEkaIv9ah90Se4NFopatSv9GbyZIJ8uY6XHMA&oe=68CC4AC4&_nc_sid=5e03e0&_nc_cat=111'
-        srcset: 'https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/151825733_2134945923338201_5445347947714921810_n.jpg?ccb=11-4&oh=01_Q5Aa2gHC5naO2OEkaIv9ah90Se4NFopatSv9GbyZIJ8uY6XHMA&oe=68CC4AC4&_nc_sid=5e03e0&_nc_cat=111'
+        src: "https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/151825733_2134945923338201_5445347947714921810_n.jpg?ccb=11-4&oh=01_Q5Aa2gHC5naO2OEkaIv9ah90Se4NFopatSv9GbyZIJ8uY6XHMA&oe=68CC4AC4&_nc_sid=5e03e0&_nc_cat=111"
+        srcset: "https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/151825733_2134945923338201_5445347947714921810_n.jpg?ccb=11-4&oh=01_Q5Aa2gHC5naO2OEkaIv9ah90Se4NFopatSv9GbyZIJ8uY6XHMA&oe=68CC4AC4&_nc_sid=5e03e0&_nc_cat=111"
 blog:
   title: "Latest Articles"
   description: "Some of my recent thoughts"
