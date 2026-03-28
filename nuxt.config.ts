@@ -14,6 +14,10 @@ export default defineNuxtConfig({
     enabled: true,
   },
 
+  image: {
+    quality: 100,
+  },
+
   css: ["~/assets/css/main.css"],
 
   compatibilityDate: "2024-11-01",
