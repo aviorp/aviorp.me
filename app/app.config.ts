@@ -1,9 +1,8 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: "https://media.licdn.com/dms/image/v2/D4D03AQGa06CAWheZOQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1695893405451?e=1772064000&v=beta&t=ry5_n3pr_gXe3SEZM7woEnZ-QscH_O8HWBrrgtpiPEw",
-      light:
-        "https://media.licdn.com/dms/image/v2/D4D03AQGa06CAWheZOQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1695893405451?e=1772064000&v=beta&t=ry5_n3pr_gXe3SEZM7woEnZ-QscH_O8HWBrrgtpiPEw",
+      dark: "/avior.jpg",
+      light: "/avior.jpg",
       alt: "My profile picture",
     },
     meetingLink: "https://wa.link/7nf5rm",
