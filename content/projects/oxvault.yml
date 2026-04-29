@@ -1,6 +1,6 @@
 title: Oxvault
-description: Open-source MCP security scanner that detects vulnerabilities in AI agent tool servers before installation. 60+ detection rules, full CVE coverage, zero false positives.
+description: AI Supply Chain Security platform for the agentic era. Local-first scanner for MCP servers, ML models (AIBOM — Pickle, ONNX, Safetensors, Sigstore signatures), and RAG corpora. 88 detection rules, 12/12 CVE coverage, 93% precision. Open-source CLI (Apache 2.0), commercial control plane + console for runtime policy and trust registry.
 image: https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 url: "https://oxvault.dev"
-tags: ["Security", "Open Source", "Go", "AI"]
+tags: ["AI Security", "Supply Chain", "Open Source", "Go", "MCP", "AIBOM"]
 date: "2026"
