@@ -36,7 +36,14 @@ experience:
   title: Work Experience
   items:
     - position: "Software Engineer at"
-      date: "2024 - Present"
+      date: "2026 - Present"
+      company:
+        name: Anchor Browser
+        logo: "i-heroicons-globe-alt"
+        url: "https://anchorbrowser.io"
+        color: "#F59E0B"
+    - position: "Software Engineer at"
+      date: "2024 - 2026"
       company:
         name: Navina
         logo: "i-heroicons-building-office"
